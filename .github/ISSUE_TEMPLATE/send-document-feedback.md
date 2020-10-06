@@ -1,5 +1,5 @@
 ---
-name: Send Document Feedback
+name: Code Sample Feedback
 about: Suggest improvements
 title: "[Code-Sample-Enhancement]"
 labels: code, sample, tcl, enhancement

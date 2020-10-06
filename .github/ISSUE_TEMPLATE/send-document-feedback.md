@@ -1,9 +1,9 @@
 ---
 name: Send Document Feedback
 about: Suggest improvements
-title: "[TDL-Enhancement]"
-labels: documentation, enhancement
-assignees: ''
+title: "[Code-Sample-Enhancement]"
+labels: code, sample, tcl, enhancement
+assignees: 'amandeep.talwar'
 
 ---
 

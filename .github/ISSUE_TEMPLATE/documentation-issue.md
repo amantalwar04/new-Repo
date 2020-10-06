@@ -1,7 +1,7 @@
 ---
 name: Documentation Issue
 about: Create a report to help us improve
-title: "[TDL-Issue]"
+title: "[Documentation-Issue]"
 labels: bug, documentation
 assignees: amantalwar04
 

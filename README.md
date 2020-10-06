@@ -1,6 +1,6 @@
 <table class="header">
  <tr>
-   <td align="center"><img src="https://www.microchip.com/ResourcePackages/Microchip/assets/dist/images/logo.png" width="30%"/><h1>Enter Project Title Here.</h1>
+   <td align="center" width="100%"><img src="https://www.microchip.com/ResourcePackages/Microchip/assets/dist/images/logo.png" align="center"/><h1>Enter Project Title Here.</h1>
    </td>
  </tr>
 </table>

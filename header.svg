@@ -3,7 +3,7 @@
     <div xmlns="http://www.w3.org/1999/xhtml">
         <table width="100%" style="background-color:black;">
             <tr>
-                <td></td>
+                <td><img src="https://internal.onlinedocs.microchip.com/pr/GUID-C48A775F-9093-4EB7-AD60-E933C7228E27-en-US-5/Microchip%20logo%20tiny%20red-white.png"/></td>
                 <td><h1 style="background-color:black; color:white;font-family:verdana;">This is a heading</h1></td>
             </tr>
         </table>  

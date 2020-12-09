@@ -4,9 +4,8 @@
     <div xmlns="http://www.w3.org/1999/xhtml">
         <table width="100%">
             <tr>
-                <td>
-                    
-                    <imgage xlink:href="https://www.microchip.com/ResourcePackages/Microchip/assets/dist/images/logo.png"/> </td>
+                <td>                   
+                    <img src="https://www.microchip.com/ResourcePackages/Microchip/assets/dist/images/logo.png"/> </td>
                 <td><h1 style="font-family:verdana;">This is a heading</h1></td>
             </tr>
         </table>  

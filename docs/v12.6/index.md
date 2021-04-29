@@ -1,3 +1,10 @@
+---
+layout: default
+title: Libero SoC Design Suite Release Notes v12.6
+nav_order: 1
+has_children: true
+---
+
 # Libero SoC v12.6
 
 -   [Introduction](GUID-6EFA8212-A0B8-4D7D-A1F3-09C9A043A01C.md)

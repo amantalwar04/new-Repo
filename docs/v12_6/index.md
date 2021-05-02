@@ -1,8 +1,8 @@
 ---
 layout: default
 title: Table of Contents
+nav_order: 2
 has_children: true
-nav_order: 1
 permalink: docs/v12.6
 ---
 

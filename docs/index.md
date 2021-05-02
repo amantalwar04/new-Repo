@@ -2,7 +2,7 @@
 layout: default
 title: Versions
 has_children: true
-nav_order: 1
+nav_order: 2
 ---
 
 # Libero SoC Design Suite Release Notes Documentation

@@ -4,6 +4,7 @@ title: Customer Technical Support
 parent: Microchip FPGA Technical Support
 nav_order: 2
 ---
+
 # Customer Technical Support
 
 Microchip FPGA Products Group staffs its Customer Technical Support Center with highly skilled engineers who can help answer your hardware, software, and design questions about Microchip FPGA Products. The Customer Technical Support Center spends a great deal of time creating application notes, answers to common design cycle questions, documentation of known issues, and various FAQs. So, before you contact us, please visit our online resources. It is very likely we have already answered your questions.

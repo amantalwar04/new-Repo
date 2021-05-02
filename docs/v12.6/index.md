@@ -1,9 +1,14 @@
----
+﻿---
 layout: default
 title: Home
 nav_order: 1
 description: "Libero SoC Release Notes v12.6"
 permalink: /
+---
+
+1. TOC
+{:toc}
+
 ---
 
 # Libero SoC v12.6

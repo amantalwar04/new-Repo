@@ -123,13 +123,3 @@ compress_html:
   # ignore:
   #   envs: all
 
-  collections:
-  docs:
-    permalink: "/docs/v12-6/"
-    output: true
-
-
-just_the_docs:
-  collections:
-    docs:
-      name: v12.6 Documentation

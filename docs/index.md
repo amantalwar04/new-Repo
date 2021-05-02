@@ -3,6 +3,7 @@ layout: default
 title: Versions
 has_children: true
 nav_order: 2
+permalink: /docs/
 ---
 
 # Libero SoC Design Suite Release Notes Documentation

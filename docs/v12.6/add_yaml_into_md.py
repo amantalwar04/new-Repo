@@ -17,11 +17,11 @@ def write_into_md(md_file_path, yaml):
 
 # Write yaml into firts level *.md file header
 #
-def write_level_one(title, md_file_path):
+def write_level_one(title, level, md_file_path):
     yaml = """---
 layout: default
 title: """ + title + """
-nav_order: 1
+nav_order: """ + str(level) + """
 ---
 """;
     md_file = open(md_file_path, 'r+')
@@ -30,7 +30,7 @@ nav_order: 1
             yaml = """---
 layout: default
 title: """ + title + """
-nav_order: 1
+nav_order: """ + str(level) + """
 has_children: true
 ---
 """;
@@ -40,13 +40,13 @@ has_children: true
 
 # Write yaml into second level *.md file header
 #
-def write_level_two(title, md_file_path):
+def write_level_two(title, level, md_file_path):
     parent = get_parent(md_file_path, "false")
     yaml = """---
 layout: default
 title: """ + title + """
 parent: """ + str(parent) + """
-nav_order: 2
+nav_order: """ + str(level) + """
 ---
 """;
 
@@ -57,7 +57,7 @@ nav_order: 2
 layout: default
 title: """ + title + """
 parent: """ + str(parent) + """
-nav_order: 2
+nav_order: """ + str(level) + """
 has_children: true
 ---
 """;
@@ -68,7 +68,7 @@ has_children: true
 
 # Write yaml into thrd level *.md file header
 #
-def write_level_three(title, md_file_path):
+def write_level_three(title, level, md_file_path):
     parent = get_parent(md_file_path, "true")
     grand_parent = get_parent(parent[1], "false")
     yaml = """---
@@ -76,7 +76,7 @@ layout: default
 title: """ + title + """
 parent: """ + str(parent[0]) + """
 grand_parent: """ + grand_parent + """
-nav_order: 3
+nav_order: """ + str(level) + """
 ---
 """;
 
@@ -88,7 +88,7 @@ layout: default
 title: """ + title + """
 parent: """ + str(parent[0]) + """
 grand_parent: """ + grand_parent + """
-nav_order: 3
+nav_order: """ + str(level) + """
 has_children: true
 ---
 """;
@@ -96,37 +96,34 @@ has_children: true
     write_into_md(md_file_path, yaml)
 
 
-# Write yaml into fourth level *.md file header
+## Write yaml into fourth level *.md file header
+##
+#def write_level_four(title, level, md_file_path):
+#    parent = get_parent(md_file_path, "true")
+#    grand_parent = get_parent(parent[1], "false")
+#    yaml = """---
+#layout: default
+#title: """ + title + """
+#parent: """ + str(parent[0]) + """
+#grand_parent: """ + str(grand_parent[0]) + """
+#nav_order: """ + str(level) + """
+#---
+#""";
 #
-def write_level_four(title, md_file_path):
-    parent = get_parent(md_file_path, "true")
-    grand_parent = get_parent(parent[1], "true")
-    grand_grand_parent = get_parent(grand_parent[1], "false")
-    yaml = """---
-layout: default
-title: """ + title + """
-parent: """ + str(parent[0]) + """
-grand_parent: """ + str(grand_parent[0]) + """
-grand_grand_parent: """ + str(grand_grand_parent) + """
-nav_order: 4
----
-""";
-
-    md_file = open(md_file_path, 'r+')
-    for line in md_file:
-        if(line.find("-   **[") != -1):
-            yaml = """---
-layout: default
-title: """ + title + """
-parent: """ + str(parent[0]) + """
-grand_parent: """ + str(grand_parent[0]) + """
-grand_grand_parent: """ + str(grand_grand_parent) + """
-nav_order: 4
-has_children: true
----
-""";
-            break;
-    write_into_md(md_file_path, yaml)
+#    md_file = open(md_file_path, 'r+')
+#    for line in md_file:
+#        if(line.find("-   **[") != -1):
+#            yaml = """---
+#layout: default
+#title: """ + title + """
+#parent: """ + str(parent[0]) + """
+#grand_parent: """ + str(grand_parent[0]) + """
+#nav_order: """ + str(level) + """
+#has_children: true
+#---
+#""";
+#            break;
+#    write_into_md(md_file_path, yaml)
 
 # Get level of the topic.
 #
@@ -176,19 +173,29 @@ def main():
     f = open(index_md_file_path, "r")
     lines = [line for line in f.readlines() if line.find("-") != -1]
 
+    level_one = 1;
+    level_two = 1;
+    level_three = 1;
+    level_four = 1;
     for line in lines:
         l = get_level(line);
         t = get_title(line);
         md = get_md_file(line);
         if (3 == l):
-            write_level_one(t, md);
+            write_level_one(t, level_one, md);
+            level_one += 1;
+            level_two = 1;
         elif (7 == l):
-            write_level_two(t, md);
+            write_level_two(t, level_two, md);
+            level_two += 1;
+            level_three = 1;
         elif (11 == l):
-            write_level_three(t, md);
+            write_level_three(t, level_three, md);
+            level_three += 1;
+            level_four = 1;
         else :
-            write_level_four(t, md);
-
+            write_level_three(t, level_four, md);
+            level_four += 1;
 
 if __name__ == "__main__":
     main()

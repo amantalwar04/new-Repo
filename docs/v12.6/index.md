@@ -1,15 +1,7 @@
 ---
 layout: default
-title: Overview
-parent: Home
+title: Table of Contents
 nav_order: 1
-description: "Libero SoC Release Notes v12.6"
----
-
-
-1. TOC
-{:toc}
-
 ---
 
 # Libero SoC v12.6

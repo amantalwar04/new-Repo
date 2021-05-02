@@ -5,9 +5,6 @@ has_children: true
 parent: Home
 nav_order: 1
 permalink: /docs/v12.6
-output: true
-nav_exclude: false
-search_exclude: false
 ---
 
 # Libero SoC v12.6

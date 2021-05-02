@@ -1,3 +1,11 @@
+---
+layout: default
+title: Home
+nav_order: 1
+description: "Libero SoC Release Notes v12.6"
+permalink: /
+---
+
 # Libero SoC v12.6
 
 -   [Introduction](GUID-6EFA8212-A0B8-4D7D-A1F3-09C9A043A01C.md)

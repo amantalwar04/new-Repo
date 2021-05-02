@@ -1,6 +1,7 @@
 ---
 layout: default
-title: Home
+title: Overview
+parent: Home
 nav_order: 1
 description: "Libero SoC Release Notes v12.6"
 ---

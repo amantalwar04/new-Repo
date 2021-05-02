@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Legal Notice
-nav_order: 1
+nav_order: 18
 ---
 # Legal Notice
 

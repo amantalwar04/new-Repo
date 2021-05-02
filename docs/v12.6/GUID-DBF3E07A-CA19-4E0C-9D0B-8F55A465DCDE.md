@@ -2,7 +2,7 @@
 layout: default
 title: Supported 64-bit Operating Systems
 parent: System Requirements
-nav_order: 2
+nav_order: 1
 ---
 # Supported 64-bit Operating Systems
 

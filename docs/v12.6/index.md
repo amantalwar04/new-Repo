@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Table of Contents
+has_children: true
 parent: Home
 nav_order: 1
 ---

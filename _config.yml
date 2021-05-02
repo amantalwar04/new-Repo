@@ -125,7 +125,7 @@ compress_html:
 
   collections:
   docs:
-    permalink: "/:docs/:v12-6/"
+    permalink: "/docs/v12-6/"
     output: true
 
 

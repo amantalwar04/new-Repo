@@ -1,3 +1,11 @@
+---
+layout: default
+title: Table of Contents
+nav_order: 4
+has_children: true
+permalink: docs/v12_6
+---
+
 
 # Libero SoC v12.6
 

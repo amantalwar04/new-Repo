@@ -2,9 +2,8 @@
 layout: default
 title: Table of Contents
 has_children: true
-parent: Home
 nav_order: 1
-permalink: /docs/v12.6
+permalink: docs/v12.6
 ---
 
 # Libero SoC v12.6

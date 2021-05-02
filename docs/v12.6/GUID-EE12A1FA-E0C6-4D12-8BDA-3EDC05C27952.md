@@ -1,3 +1,9 @@
+---
+layout: default
+title: PolarFire SoC New Device Support Matrices
+parent: Appendix B: New Device Support Matrices
+nav_order: 2
+---
 # PolarFire SoC New Device Support Matrices
 
 The following tables list the licensing and device/package combinations for PolarFire SoC devices.

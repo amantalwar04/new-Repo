@@ -1,3 +1,9 @@
+---
+layout: default
+title: Supported 64-bit Operating Systems
+parent: System Requirements
+nav_order: 2
+---
 # Supported 64-bit Operating Systems
 
 -   Windows 7 or Windows 10 OS

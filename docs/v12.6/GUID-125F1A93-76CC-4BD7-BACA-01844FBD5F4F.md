@@ -1,3 +1,8 @@
+---
+layout: default
+title: Legal Notice
+nav_order: 1
+---
 # Legal Notice
 
 Information contained in this publication is provided for the sole purpose of designing with and using Microchip products. Information regarding device applications and the like is provided only for your convenience and may be superseded by updates. It is your responsibility to ensure that your application meets with your specifications.

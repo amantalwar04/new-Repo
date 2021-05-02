@@ -1,3 +1,11 @@
+---
+layout: default
+title: PolarFire SoC Zeroization Support
+parent: PolarFire SoC
+grand_parent: New Silicon Features and Enhancements
+grand_grand_parent: Libero SoC v12.6 Software Release Notes
+nav_order: 4
+---
 # PolarFire SoC Zeroization Support
 
 Libero SoC v12.6 enables Zeroization support in “Export Bitstream”. The generated file will have ZEROIZE\_LIKE\_NEW and ZEROIZE\_UNRECOVERABLE programming actions.

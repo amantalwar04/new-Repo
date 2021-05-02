@@ -5,6 +5,12 @@ parent: Appendix B: New Device Support Matrices
 nav_order: 1
 ---
 
+1. TOC
+{:toc}
+
+---
+
+
 # PolarFire SoC New Device Support Matrices
 
 The following tables list the licensing and device/package combinations for PolarFire SoC devices.

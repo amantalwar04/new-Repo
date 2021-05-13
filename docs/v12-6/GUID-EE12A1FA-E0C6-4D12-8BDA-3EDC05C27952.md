@@ -5,11 +5,6 @@ parent: Appendix B: New Device Support Matrices
 nav_order: 1
 ---
 
-1. TOC
-{:toc}
-
----
-
 
 # PolarFire SoC New Device Support Matrices
 

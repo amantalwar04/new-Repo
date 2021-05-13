@@ -5,6 +5,7 @@ nav_order: 13
 has_children: true
 ---
 
+
 # Microchip FPGA Technical Support
 
 Microchip FPGA Products Group backs its products with various support services, including Customer Service, Customer Technical Support Center, a website, and worldwide sales offices. This section provides information about contacting Microchip FPGA Products Group and using these support services.

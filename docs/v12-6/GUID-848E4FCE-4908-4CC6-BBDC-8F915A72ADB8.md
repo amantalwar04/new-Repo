@@ -6,6 +6,7 @@ nav_order: 2
 has_children: true
 ---
 
+
 # New Device Support
 
 -   **[PolarFire SoC](GUID-307460B3-39A9-4DA4-A801-6D714BC47B8A.md)**  

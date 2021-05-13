@@ -2,8 +2,8 @@
 layout: default
 title: Appendix A. RTG4 SPLL and FPLL Calibration and Workaround
 nav_order: 10
-parent: v12.6
 ---
+
 
 # Appendix A. RTG4 SPLL and FPLL Calibration and Workaround
 

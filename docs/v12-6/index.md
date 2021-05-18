@@ -2,6 +2,7 @@
 layout: default
 title: v12.6
 nav_order: 2
+parent: Home
 has_children: true
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: PolarFire SoC New Device Support Matrices
-parent: Appendix B: New Device Support Matrices
+parent: Appendix B. New Device Support Matrices
 nav_order: 1
 ---
 

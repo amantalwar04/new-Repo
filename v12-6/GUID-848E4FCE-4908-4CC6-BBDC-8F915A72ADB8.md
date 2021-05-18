@@ -2,6 +2,7 @@
 layout: default
 title: New Device Support
 parent: Libero SoC v12.6 Software Release Notes
+grand_parent: v12.6
 nav_order: 2
 has_children: true
 ---

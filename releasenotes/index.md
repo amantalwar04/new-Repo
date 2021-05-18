@@ -14,6 +14,6 @@ You can find all Release Notes here.
 
 
 ---
-[v12.6 Release Notes](v12_6){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [v2021.1 Release Notes](v2021-1/){: .btn .fs-5 .mb-4 .mb-md-0 }
+[v12.6 Release Notes](v12-6){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [v2021.1 Release Notes](v2021-1/){: .btn .fs-5 .mb-4 .mb-md-0 }
 
 

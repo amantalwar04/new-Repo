@@ -1,7 +1,8 @@
 ---
 layout: default
 title: Frequently Asked Questions
+has_children: true
 nav_order: 3
 ---
 
-# Frequently Asked Questions
+# Libero SoC Frequently Asked Questions

@@ -1,7 +1,9 @@
 ---
 layout: default
 title: v12.6
+nav_order: 2
 has_children: true
+permalink: docs/v12-6
 ---
 
 

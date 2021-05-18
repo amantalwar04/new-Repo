@@ -3,11 +3,12 @@ layout: default
 title: v12.6
 nav_order: 2
 has_children: true
-permalink: /docs/v12-6
+permalink: /docs/v12-6/
 ---
 
 
 # Libero SoC v12.6
+{: .no_toc }
 
 -   [Introduction](GUID-6EFA8212-A0B8-4D7D-A1F3-09C9A043A01C.md)
 -   [Related Release Notes](GUID-B0C2B915-D502-4B32-A194-AF7141FBC4CB.md)

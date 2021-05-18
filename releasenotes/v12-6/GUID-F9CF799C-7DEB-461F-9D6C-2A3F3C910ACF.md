@@ -1,9 +1,4 @@
----
-layout: default
-title: Microchip FPGA Technical Support
-nav_order: 13
-has_children: true
----
+
 
 # Microchip FPGA Technical Support
 

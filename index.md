@@ -14,6 +14,6 @@ Libero® SoC Design Suite offers high productivity with its comprehensive, easy-
 
 
 ---
-[v12.6 Release Notes](releasenotes/v12-6){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [v2021.1 Release Notes](releasenotes/v2021-1/){: .btn .fs-5 .mb-4 .mb-md-0 }
+[Release Notes](releasenotes/){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [Frequently Asked Questions (FAQ)](faq/){: .btn .fs-5 .mb-4 .mb-md-0 }
 
 

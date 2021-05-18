@@ -1,4 +1,8 @@
-
+---
+layout: default
+title: Microchip FPGA Technical Support
+nav_exclude: true
+---
 
 # Microchip FPGA Technical Support
 

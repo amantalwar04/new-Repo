@@ -1,7 +1,7 @@
 ---
 layout: default
 title: v12.6
-nav_order: 2
+parent: Release Notes
 has_children: true
 ---
 

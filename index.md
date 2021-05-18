@@ -6,13 +6,14 @@ description: "A sample repository with links to various documentation related to
 permalink: /
 ---
 
-# Focus on writing good documentation
+# Welcome to the Libero SoC Documentation Portal
 {: .fs-9 }
 
-Just the Docs gives your documentation a jumpstart with a responsive Jekyll theme that is easily customizable and hosted on GitHub Pages.
+Libero® SoC Design Suite offers high productivity with its comprehensive, easy-to-learn, easy-to-adopt development tools for designing with Microsemi's  PolarFire SoC,PolarFire, IGLOO2, SmartFusion2, RTG4, SmartFusion, IGLOO, ProASIC3 and Fusion families.The suite integrates industry standard Synopsys Synplify Pro® synthesis and Mentor Graphics ModelSim® simulation with best-in-class constraints management, Programming & Debug Tools capabilities, and secure production programming support.
 {: .fs-6 .fw-300 }
 
-[v12.6 Release Notes](/docs/v12-6){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [v2021.1 Release Notes](/docs/v2021-1/){: .btn .fs-5 .mb-4 .mb-md-0 }
 
 ---
+[v12.6 Release Notes](new-Repo/docs/v12-6){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [v2021.1 Release Notes](new-Repo/docs/v2021-1/){: .btn .fs-5 .mb-4 .mb-md-0 }
+
 

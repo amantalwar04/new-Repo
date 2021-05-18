@@ -13,7 +13,7 @@ has_children: true
 -   [Related Release Notes](GUID-B0C2B915-D502-4B32-A194-AF7141FBC4CB.md)
 -   [Libero SoC v12.6 Software Release Notes](GUID-4F46D7F9-8B0A-4D1A-8B15-2C12F938E2C1.md)
     -   [Customer Notification \(CN\) Support](GUID-EAD6C696-E01D-40F4-B54F-E0AD053A3529.md)
-        -   [PolarFire PCN20027 Maximum Read Frequency on Certain LSRAM Read Modes Have Been Reduced](GUID-42D38C1E-1BA6-42BD-8AE5-380A1741A722.rst)
+        -   [PolarFire PCN20027 Maximum Read Frequency on Certain LSRAM Read Modes Have Been Reduced](GUID-42D38C1E-1BA6-42BD-8AE5-380A1741A722.md)
     -   [New Device Support](GUID-848E4FCE-4908-4CC6-BBDC-8F915A72ADB8.md)
         -   [PolarFire SoC](GUID-307460B3-39A9-4DA4-A801-6D714BC47B8A.md)
         -   [PolarFire](GUID-23583617-F2BC-406C-B610-61126EAEE271.md)

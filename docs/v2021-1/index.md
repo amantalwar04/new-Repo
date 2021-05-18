@@ -1,9 +1,8 @@
 ---
 layout: default
 title: Utilities
-nav_order: 4
+nav_order: 3
 has_children: true
-permalink: docs/v2021-1
 ---
 
 # Utilities

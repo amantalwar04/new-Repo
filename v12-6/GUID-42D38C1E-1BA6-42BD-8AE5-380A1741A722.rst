@@ -6,7 +6,8 @@ grand_parent: Libero SoC v12.6 Software Release Notes
 nav_order: 1
 ---
 
-# PolarFire PCN20027 Maximum Read Frequency on Certain LSRAM Read Modes Have Been Reduced
+PolarFire PCN20027 Maximum Read Frequency on Certain LSRAM Read Modes Have Been Reduced
+=========================================================================================
 
 The following PolarFire LSRAM configurations have derated Fmax specifications.
 

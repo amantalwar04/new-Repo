@@ -13,8 +13,8 @@
 # you will see them accessed via {{ site.title }}, {{ site.github_repo }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Libero SoC Release Notes
-description: Libero SoC Design Suite Release Notes Documentation
+title: Libero SoC Getting Started
+description: Getting Started with Libero SoC Design Suite
 baseurl: "/new-Repo" # the subpath of your site, e.g. /blog
 url: "https://amantalwar04.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 remote_theme: pmarsceill/just-the-docs
@@ -30,7 +30,7 @@ exclude: ["node_modules/", "*.gemspec", "*.gem", "Gemfile", "Gemfile.lock", "pac
 # include: ["docs/tests/"]
 
 # Set a path/url to a logo that will be displayed instead of the title
-#logo: "/assets/images/just-the-docs.png"
+logo: "/assets/images/logo.png"
 
 # Enable or disable the site search
 # Supports true (default) or false

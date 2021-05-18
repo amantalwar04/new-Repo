@@ -17,8 +17,8 @@ title: Libero SoC Getting Started
 description: Getting Started with Libero SoC Design Suite
 baseurl: "/new-Repo" # the subpath of your site, e.g. /blog
 url: "https://amantalwar04.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-#remote_theme: pmarsceill/just-the-docs
-theme: just-the-docs
+remote_theme: pmarsceill/just-the-docs
+# theme: just-the-docs
 permalink: pretty
 exclude: ["node_modules/", "*.gemspec", "*.gem", "Gemfile", "Gemfile.lock", "package.json", "package-lock.json",  "script/", "LICENSE.txt", "lib/", "bin/", "README.md", "Rakefile"
 , "docs/tests/"

@@ -1,17 +1,1 @@
-<svg width="100%" height="100%" xmlns="http://www.w3.org/2000/svg">
-<use href="https://mdn.mozillademos.org/files/6457/mdn_logo_only_color.png" height="200" width="200"/>
-
-<foreignObject width="100%" height="100">
-    <div xmlns="http://www.w3.org/1999/xhtml">
-        <table width="100%">
-            <tr>
-                <td>                   
-                    <img src="https://www.microchip.com/ResourcePackages/Microchip/assets/dist/images/logo.png"/> </td>
-                <td><h1 style="font-family:verdana;">This is a heading</h1></td>
-            </tr>
-        </table>  
-
-        <!-- Other embed HTML element/text into SVG -->
-    </div>
-</foreignObject>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100%"><use width="200" height="200" href="https://mdn.mozillademos.org/files/6457/mdn_logo_only_color.png"/><foreignObject width="100%" height="100"><div xmlns="http://www.w3.org/1999/xhtml"><table width="100%"><tr><td><img src="https://www.microchip.com/ResourcePackages/Microchip/assets/dist/images/logo.png"/></td><td><h1 style="font-family:verdana">This is a heading</h1></td></tr></table></div></foreignObject></svg>

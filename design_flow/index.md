@@ -1,4 +1,12 @@
-# PolarFire System Services Simulation User Guide - Markdown
+---
+layout: default
+title: PolarFire System Services Simulation User Guide
+has_children: true
+nav_order: 4
+---
+
+
+# PolarFire System Services Simulation User Guide
 
 -   [Introduction](GUID-837270CE-F716-408D-8022-62902F4BE9AC.md#GUID-D3BE74A4-8846-442A-9F67-834757001FE2)
 -   [Overview](GUID-837270CE-F716-408D-8022-62902F4BE9AC.md#GUID-1C19722A-3A5B-4083-8F9E-42E8DD711E97)
